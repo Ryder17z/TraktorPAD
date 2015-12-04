@@ -3,7 +3,7 @@ Traktor mapping for the Novation Launchpad (Based on Mini)
 
 WIP
 
-Top row buttons are:
+Top row (round) buttons are:
 - File browser UP
 - File browser DOWN
 - Load Selected track into Deck A
