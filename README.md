@@ -9,4 +9,4 @@ Re-arranged load/broswe arrangements
 Added EQ buttons, UP, DOWN and KILL for HIGH, MID and LOW
 
 
-![Preview](https://github.com/Patrik356b/TraktorPAD/blob/master/launchpad-mini_key-layout-DEFAULT.png)
+![Preview](https://github.com/Patrik356b/TraktorPAD/blob/rc1/launchpad-mini_key-layout-DEFAULT.png)
