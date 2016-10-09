@@ -3,12 +3,10 @@ Traktor mapping for the Novation Launchpad (Based on Mini)
 
 WIP
 
-Top row (round) buttons are:
-- File browser UP
-- File browser DOWN
-- Load Selected track into Deck A
-- Load Selected track into Deck B
+Update:
+VU-meter removed because it often did not work properly
+Re-arranged load/broswe arrangements
+Added EQ buttons, UP, DOWN and KILL for HIGH, MID and LOW
 
-Also; basic VU meter effect happening on the round buttons (top and right side)
 
 ![Preview](https://github.com/Patrik356b/TraktorPAD/blob/master/launchpad-mini_key-layout-DEFAULT.png)
