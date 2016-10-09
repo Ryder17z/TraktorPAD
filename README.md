@@ -11,4 +11,4 @@ Top row (round) buttons are:
 
 Also; basic VU meter effect happening on the round buttons (top and right side)
 
-![Preview](https://github.com/Patrik356b/TraktorPAD/blob/master/launchpad-mini_key-layout-DEFAULT.png)
+![Preview](https://github.com/Patrik356b/TraktorPAD/blob/rc0/launchpad-mini_key-layout-DEFAULT.png)
